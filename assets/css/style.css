@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	font-family: 'Germania One', cursive;
+	font-size: 60px;
+}
+.jumbotron {
+	border: outset;
+	border-radius: 50px;
+}
+.panel-main {
+	padding: 20px;
+}
+.panel-head {
+	 background-color: antiquewhite;
+}
+.panel-title {
+	
+}
+.panel-content {
+	padding: 10px 0;
+}
